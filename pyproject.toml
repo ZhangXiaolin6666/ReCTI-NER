@@ -1,0 +1,19 @@
+[project]
+name = "eas-ie"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "loguru",
+    "tqdm",
+    "sentence-transformers",
+    "faiss-cpu",
+    "scikit-learn",
+    "numpy",
+    "openai",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "jsonschema",
+    "python-Levenshtein",
+    "python-dotenv",
+]
